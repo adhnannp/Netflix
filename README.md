@@ -8,7 +8,7 @@ A Netflix Clone web application built using **React**, **Vite**, and **Firebase*
 
 1. [Project Structure](#project-structure)
 2. [Features](#features)
-3. Installation and Setup
+3. [Installation and Setup](#Installation-and-Setup)
 4. [Technologies Used](#technologies-used)
 5. [Usage](#usage)
 6. [Folder Structure Details](#folder-structure-details)
